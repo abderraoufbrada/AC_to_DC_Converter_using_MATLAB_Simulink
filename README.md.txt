@@ -1,5 +1,7 @@
 # AC to DC Converter using MATLAB/Simulink  
 
+⭐ If you find this project useful, don’t forget to **star this repository**!  
+
 ## Overview  
 This project demonstrates the conversion of **Alternating Current (AC)** to **Direct Current (DC)** using a rectifier circuit implemented in **MATLAB/Simulink**.  
 It highlights a fundamental concept in **Power Electronics** that is widely applied in power supplies, battery charging systems, and electronic devices.  
