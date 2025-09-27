@@ -19,15 +19,15 @@ It highlights a fundamental concept in **Power Electronics** that is widely appl
 ## Simulation Model  
 The following figure shows the Simulink model of the AC to DC Converter:  
 
-![Simulink Model](images/model.png)  
+![Simulink Model](model.png.png)  
+
 
 ---
 
 ## Simulation Results  
 The output waveform after rectification and filtering is shown below:  
 
-![Simulation Result](images/output.png)  
-
+![Simulation Result](output.png.png)
 As expected, the AC input is successfully converted to a smoothed DC signal.  
 
 ---
@@ -56,3 +56,4 @@ As expected, the AC input is successfully converted to a smoothed DC signal.
 
 ## Author  
 Created by **Brada Abderraouf**  
+
